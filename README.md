@@ -1,8 +1,11 @@
-# Curriculum Profesional - Portfolio Personal
+# 🎯 Curriculum Profesional - Cristian Ajila
 
-Este es un curriculum profesional con diseño moderno y tema oscuro, similar al diseño mostrado en la imagen de referencia.
+Portfolio personal y curriculum profesional con diseño moderno y tema oscuro.
 
-## 🚀 Características
+## 🌐 **Ver Online**
+**URL del Portfolio:** [https://crisda7.github.io/curriculum-cristian-ajila](https://crisda7.github.io/curriculum-cristian-ajila)
+
+## 🚀 **Características**
 
 - **Diseño Moderno**: Tema oscuro con acentos azules
 - **Responsive**: Se adapta a todos los dispositivos
@@ -11,175 +14,87 @@ Este es un curriculum profesional con diseño moderno y tema oscuro, similar al 
 - **Formulario de Contacto**: Funcional y validado
 - **Animaciones**: Efectos hover y transiciones suaves
 
-## 📁 Estructura del Proyecto
+## 👨‍💻 **Sobre Mí**
+
+**Cristian Ajila** - Desarrollador Web & Instructor Fitness
+
+- 📧 **Email**: davidajila07@gmail.com
+- 📱 **Teléfono**: 0994494004
+- 📍 **Ubicación**: Catamayo-Loja, Ecuador
+- 🎂 **Fecha de Nacimiento**: 26 de noviembre, 1999
+
+## 🛠️ **Tecnologías**
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Frameworks**: React, Flutter
+- **Backend**: Node.js, Python, Java
+- **Diseño**: Responsive Design, UI/UX
+
+## 📁 **Estructura del Proyecto**
 
 ```
 curriculum/
+├── index.html              # Página principal (GitHub Pages)
 ├── templates/
-│   └── index.html          # Página principal
+│   └── index.html          # Versión local
 ├── css/
 │   └── style.css          # Estilos CSS
 ├── js/
 │   └── script.js          # Funcionalidad JavaScript
+├── img/
+│   ├── perfil.jpg         # Foto de perfil
+│   ├── netflix.png        # Proyecto Netflix
+│   └── cisco.png          # Blog Cisco
 └── README.md              # Este archivo
 ```
 
-## 🎨 Personalización
-
-### 1. Información Personal
-
-Edita el archivo `templates/index.html` y modifica:
-
-```html
-<!-- En la sección del sidebar -->
-<h2 class="name">Tu Nombre</h2>
-<p class="title">Tu Profesión</p>
-
-<!-- Información de contacto -->
-<div class="contact-item">
-    <i class="fas fa-envelope"></i>
-    <span>tu.email@ejemplo.com</span>
-</div>
-```
-
-### 2. Foto de Perfil
-
-Reemplaza la imagen placeholder:
-```html
-<img src="tu-foto.jpg" alt="Tu Foto">
-```
-
-### 3. Sección "Sobre Mí"
-
-Modifica el texto en la sección `about`:
-```html
-<p class="about-text">
-    Tu descripción personal aquí...
-</p>
-```
-
-### 4. Educación y Experiencia
-
-Actualiza las fechas y descripciones en la sección `resume`:
-```html
-<div class="timeline-item">
-    <div class="timeline-date">2020 - 2022</div>
-    <div class="timeline-content">
-        <h4>Tu Título</h4>
-        <p>Tu Institución</p>
-    </div>
-</div>
-```
-
-### 5. Habilidades
-
-Ajusta los porcentajes en la sección de skills:
-```html
-<div class="skill-item">
-    <div class="skill-info">
-        <span>Tu Habilidad</span>
-        <span>85%</span>
-    </div>
-    <div class="skill-bar">
-        <div class="skill-progress" style="width: 85%"></div>
-    </div>
-</div>
-```
-
-### 6. Portfolio
-
-Reemplaza los proyectos con los tuyos:
-```html
-<div class="portfolio-item" data-category="web-development">
-    <div class="portfolio-image">
-        <img src="tu-proyecto.jpg" alt="Tu Proyecto">
-    </div>
-    <div class="portfolio-info">
-        <h4>Nombre del Proyecto</h4>
-        <p>Categoría</p>
-    </div>
-</div>
-```
-
-### 7. Blog
-
-Actualiza los artículos del blog con tu contenido:
-```html
-<article class="blog-card">
-    <div class="blog-image">
-        <img src="tu-articulo.jpg" alt="Título del Artículo">
-    </div>
-    <div class="blog-info">
-        <h3>Título del Artículo</h3>
-        <p class="blog-date">Fecha</p>
-        <p class="blog-excerpt">Resumen del artículo...</p>
-    </div>
-</article>
-```
-
-### 8. Información de Contacto
-
-Actualiza el mapa y la información de contacto:
-```html
-<!-- Cambia las coordenadas del mapa -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d...">
-```
-
-## 🎯 Secciones Disponibles
+## 🎯 **Secciones Disponibles**
 
 1. **Sobre Mí**: Descripción personal y servicios
 2. **Curriculum**: Educación, experiencia y habilidades
-3. **Portfolio**: Proyectos con filtros por categoría
+3. **Portafolio**: Proyectos con filtros por categoría
 4. **Blog**: Artículos y publicaciones
 5. **Contacto**: Formulario y mapa
 
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5**: Estructura semántica
-- **CSS3**: Estilos modernos con Grid y Flexbox
-- **JavaScript**: Interactividad y navegación
-- **Font Awesome**: Iconos
-- **Google Fonts**: Tipografía Inter
-
-## 📱 Responsive Design
+## 📱 **Responsive Design**
 
 El diseño se adapta automáticamente a:
 - **Desktop**: Layout completo con sidebar
 - **Tablet**: Ajustes de navegación
 - **Mobile**: Menú hamburguesa y layout vertical
 
-## 🚀 Cómo Usar
+## 🚀 **Cómo Usar Localmente**
 
-1. Abre `templates/index.html` en tu navegador
-2. Personaliza el contenido según tus necesidades
-3. Reemplaza las imágenes placeholder con las tuyas
-4. Actualiza la información de contacto
-5. Sube a tu servidor web
+1. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/CrisDa7/curriculum-cristian-ajila.git
+   cd curriculum-cristian-ajila
+   ```
 
-## 🎨 Personalización de Colores
+2. **Abrir en el navegador**:
+   - Abre `index.html` en tu navegador
+   - O usa un servidor local: `python3 -m http.server 8000`
 
-Para cambiar los colores, edita las variables en `css/style.css`:
+## 🎨 **Personalización**
 
-```css
-/* Colores principales */
---primary-color: #3498db;    /* Azul principal */
---background-dark: #1a1a1a;  /* Fondo oscuro */
---sidebar-bg: #2c2c2c;       /* Fondo del sidebar */
---text-light: #ffffff;       /* Texto claro */
---text-gray: #cccccc;        /* Texto gris */
-```
+Para personalizar este curriculum:
 
-## 📝 Notas
+1. **Edita `index.html`** con tu información
+2. **Reemplaza las imágenes** en la carpeta `img/`
+3. **Actualiza los enlaces** de redes sociales
+4. **Modifica los colores** en `css/style.css`
 
-- Las imágenes son placeholders, reemplázalas con las tuyas
-- El formulario de contacto es simulado, conéctalo a tu backend
-- El mapa de Google Maps necesita coordenadas reales
-- Los enlaces de redes sociales deben apuntar a tus perfiles
+## 📝 **Licencia**
 
-## 🤝 Contribuciones
+Este proyecto es de uso libre. Siéntete libre de usarlo como base para tu propio portfolio.
 
-Siéntete libre de mejorar el código y compartir tus mejoras.
+## 🤝 **Contacto**
+
+- **LinkedIn**: [Cristian Ajila](https://acortar.link/tdL11P)
+- **GitHub**: [@CrisDa7](https://github.com/CrisDa7)
+- **TikTok**: [@crissfitt7](https://acortar.link/CUlHI4)
+- **Instagram**: [@crissfitt7](https://www.instagram.com/crissfitt7/)
 
 ---
 
-¡Disfruta creando tu curriculum profesional! 🎉 
+⭐ **¡Dale una estrella si te gustó el proyecto!** 
